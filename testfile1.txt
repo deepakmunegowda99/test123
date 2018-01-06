@@ -5,4 +5,8 @@ this 3 rd commit
 
 4th commit
 
+<<<<<<< HEAD
 this is 5.2 th commit
+=======
+5 th commit
+>>>>>>> 0ef8804a7bb8e0e505a48a3687fdec67574ae323
